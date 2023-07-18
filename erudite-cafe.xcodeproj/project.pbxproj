@@ -14,6 +14,7 @@
 		5C00507B2A65E91800C516E3 /* erudite_cafe.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5C0050792A65E91800C516E3 /* erudite_cafe.xcdatamodeld */; };
 		5C00507D2A65E91B00C516E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5C00507C2A65E91B00C516E3 /* Assets.xcassets */; };
 		5C0050802A65E91B00C516E3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5C00507E2A65E91B00C516E3 /* LaunchScreen.storyboard */; };
+		5CF723282A66593F00C3153E /* Judson-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5CF723272A66593F00C3153E /* Judson-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,9 @@
 		5C00507C2A65E91B00C516E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5C00507F2A65E91B00C516E3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5C0050812A65E91B00C516E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5CF723272A66593F00C3153E /* Judson-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Judson-Regular.ttf"; path = "../../../Downloads/Judson/Judson-Regular.ttf"; sourceTree = "<group>"; };
+		5CF7232B2A6739B800C3153E /* Judson-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Judson-Bold.ttf"; path = "../../../Downloads/Judson (1)/Judson-Bold.ttf"; sourceTree = "<group>"; };
+		5CF7232C2A6739BD00C3153E /* Judson-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Judson-Italic.ttf"; path = "../../../Downloads/Judson (1)/Judson-Italic.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,9 @@
 				5C00507E2A65E91B00C516E3 /* LaunchScreen.storyboard */,
 				5C0050812A65E91B00C516E3 /* Info.plist */,
 				5C0050792A65E91800C516E3 /* erudite_cafe.xcdatamodeld */,
+				5CF723272A66593F00C3153E /* Judson-Regular.ttf */,
+				5CF7232B2A6739B800C3153E /* Judson-Bold.ttf */,
+				5CF7232C2A6739BD00C3153E /* Judson-Italic.ttf */,
 			);
 			path = "erudite-cafe";
 			sourceTree = "<group>";
@@ -128,6 +135,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CF723282A66593F00C3153E /* Judson-Regular.ttf in Resources */,
 				5C0050802A65E91B00C516E3 /* LaunchScreen.storyboard in Resources */,
 				5C00507D2A65E91B00C516E3 /* Assets.xcassets in Resources */,
 				5C0050782A65E91800C516E3 /* Main.storyboard in Resources */,
